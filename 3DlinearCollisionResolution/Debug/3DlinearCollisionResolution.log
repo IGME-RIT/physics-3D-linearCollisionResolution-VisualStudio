@@ -1,0 +1,79 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(188): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(189): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(190): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(193): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(196): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(197): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(198): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(201): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(204): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(205): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(206): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(212): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(213): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(214): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(217): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(235): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-linearcollisionresolution-mastervs2019\3dlinearcollisionresolution\main.cpp(646): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  3DlinearCollisionResolution.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level9\physics-3D-linearCollisionResolution-masterVS2019\3DlinearCollisionResolution\Debug\3DlinearCollisionResolution.exe
